@@ -14,7 +14,7 @@ The following technologies were used in this project:
 * [H2 Database](https://www.h2database.com/html/main.html)
 * [Spring Tools Suite](https://spring.io/tools)
 
-### Testing the project
+## Testing the project
 **Step 1:** Start the application using Spring Tools Suite.
 
 **Step 2:** Start the Postman
