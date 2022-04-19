@@ -1,5 +1,5 @@
 ## About
-The project shows how to build an API Restful using the Spring Boot.
+Project created in the Spring Boot API RESTful course.
 
 ## RESTful maturity level
 ![](references/restful-maturity-model.png)
