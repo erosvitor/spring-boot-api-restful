@@ -1,9 +1,6 @@
 ## About
 Project created in the Spring Boot API RESTful course.
 
-## RESTful maturity level
-![](references/restful-maturity-model.png)
-
 ## Technologies
 The following technologies were used in this project:
 
